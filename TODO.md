@@ -1,5 +1,5 @@
 # TODO 
 
-- [ ] Function that retrieves a random joke from icanhazdadjokes.com
-- [ ] Print the joke
-- [ ] ask user (y/n) to show another one
+- [X] Function that retrieves a random joke from icanhazdadjokes.com
+- [X] Print the joke
+- [X] ask user (y/n) to show another one
